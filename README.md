@@ -1,9 +1,9 @@
 # ListApp
 
-## Adding data to the device database
-## Removing data from the device database
-## Rendering data from the device database to the UI
-## Using FlatList with swipeable items
+### Adding data to the device database
+### Removing data from the device database
+### Rendering data from the device database to the UI
+### Using FlatList with swipeable items
 
 
 ## Main components
