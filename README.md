@@ -5,6 +5,11 @@
 ### Rendering data from the device database to the UI
 ### Using FlatList with swipeable items
 
+## Tech
+
+### React Native
+### SqLite
+
 
 ## Main components
 
